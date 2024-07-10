@@ -1,22 +1,8 @@
 
-# FinTrack
+# BountyBalance
 
-FinTrack is a web app that keeps track of all your Money flowing in or out.
+BountyBalance is a web app that keeps track of all your Money flowing in or out.
 
-
-## Demo of Website
-
-Loom video link
-
-https://www.loom.com/share/c68b7f499ad0474dbd67bf429daeda2a
-
-## Developers
-
-- [Bhavya Mittal](https://github.com/dev-bhavya)
-- [Akshat Yadav](https://github.com/Akshat1202)
-- [Prince Verma](https://github.com/princeverma-ai)
-- [Vanshika Bansal](https://github.com/vanshika-a)
-- [Ishtjot](https://github.com/ISHTJOT-KAUR1/sample)
 
 
 
@@ -26,9 +12,9 @@ It’s very hard being a student to keep track of all records of my Bills. How m
 
 
 
-## What FinTrack do
+## What BountyBalance do
 
-FinTrack an online app will keep track of all your Money flowing whether incoming or outgoing. Update today’s expenditure, or yesterday’s pocket money in just a single click. Now your daily/monthly financial record with graphs, animated donut charts,etc is just one click away. And don’t forget to save money, regular reminders at your convenience.  FinTrack helps you set financial goals and keeps track of your savings.
+BountyBalance an online app will keep track of all your Money flowing whether incoming or outgoing. Update today’s expenditure, or yesterday’s pocket money in just a single click. Now your daily/monthly financial record with graphs, animated donut charts,etc is just one click away. And don’t forget to save money, regular reminders at your convenience.  BountyBalance helps you set financial goals and keeps track of your savings.
 
 ## Technology Used
 
@@ -47,7 +33,7 @@ The future scope of a platform depends upon its scalability, business model and 
 Clone the project
 
 ```bash
-  git clone https://github.com/princeverma-ai/hackmol3.0
+  git clone https://github.com/CodrAyush/BountyBalance.git
 ```
 
 Install dependencies
