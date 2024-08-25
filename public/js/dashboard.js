@@ -1,4 +1,4 @@
-//side bar
+//this is side bar
 menuButton = document.querySelector(".menuDiv");
 sideBar = document.querySelector(".sideBar");
 burgerIcon = document.querySelector(".burgerIcon");
