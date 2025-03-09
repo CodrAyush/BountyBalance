@@ -4,6 +4,11 @@ const pagesController = require("../controllers/pagesController");
 
 const Router = express.Router();
 
+// Add root route handler
+Router.route("/").get((req, res) => {
+  res.sendFile(process.cwd() + '/views/index.html');
+});
+
 Router.route("/signup").post(userController.signUp);
 Router.route("/login").post(userController.login);
 
