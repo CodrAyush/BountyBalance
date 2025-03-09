@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const app = require("./app");
 
 // connection to the database-------------------------------------------------------
-const db = "xxxxxxxxxxxxxxxxxxxxxxxxx";
+const db = "mongodb://localhost:27017/bountybalance";
 mongoose
   .connect(db, {
     useNewUrlParser: true,
